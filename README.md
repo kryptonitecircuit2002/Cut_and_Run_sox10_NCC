@@ -5,14 +5,13 @@ This repository contains the computational workflows and downstream analysis scr
 Raw sequencing data were processed using the nf-core/CUT&RUN Nextflow pipeline. Downstream analyses include peak annotation, chromatin-state classification, histone variant occupancy dynamics, variant–chromatin state integration, motif enrichment, gene ontology analysis, and data visualization.
 
 ## Software
-Nextflow
-nf-core/cutandrun
-Bowtie2
-MACS2
-BEDTools
-deepTools
-HOMER
-R
+- Nextflow nf-core/cutandrun
+- Bowtie2
+- MACS2
+- BEDTools
+- deepTools
+- HOMER
+- R
 
 ## Major Analyses
 CUT&RUN preprocessing and spike-in normalization
