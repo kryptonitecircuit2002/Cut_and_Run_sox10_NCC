@@ -1,4 +1,4 @@
-CUT&RUN Analysis of Histone Variant and Chromatin State Dynamics During Neural Crest Development
+CUT&RUN analysis of histone variant occupancy and chromatin-state dynamics during neural crest development
 
 This repository contains the computational workflows and downstream analysis scripts used to process and analyze CUT&RUN datasets generated from zebrafish neural crest cells across development. The analyses were performed to investigate the genomic occupancy and developmental dynamics of the histone variants H2A.Z and H3.3 and their relationship with chromatin states defined by H3K4me3, H3K27ac, and H3K27me3.
 
